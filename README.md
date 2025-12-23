@@ -67,11 +67,11 @@ This repo is designed to help you crack Python coding interviews with level-wise
 - 🔹 Focus: Thinking Like an Engineer
 
 - Topics Covered:
-      - ✅ Advanced Recursion
-      - ✅ Backtracking
-      - ✅ Optimization Techniques
-      - ✅ Edge Case Handling
-      - ✅ Time & Space Complexity
+  - ✅ Advanced Recursion
+  - ✅ Backtracking
+  - ✅ Optimization Techniques
+  - ✅ Edge Case Handling
+  - ✅ Time & Space Complexity
 
 - 🎯 Ideal for:
   - Product-based companies 🚀
